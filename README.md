@@ -1,16 +1,96 @@
-# React + Vite
+# 🍽️ Royal Spice Restaurant – Premium Business Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-end restaurant website designed to represent a real-world food business with a luxurious user experience, rich visuals, and customer-focused features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Overview
 
-## React Compiler
+Royal Spice Restaurant is a premium, fully responsive website built to help a restaurant establish a strong online presence, attract customers, and increase bookings.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project focuses on delivering a real business experience — not just a design, but a functional and visually engaging website.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Key Features
+
+### 🏠 Modern Homepage
+- Eye-catching hero section with premium food visuals  
+- Strong call-to-action buttons (Order Now / View Menu)  
+- Smooth layout with clean spacing  
+
+---
+
+### 🍽️ Dynamic Menu System
+- Categorized menu (Starters, Main Course, Desserts, Beverages)  
+- Each item includes image, description, price, and rating  
+- Designed for easy browsing and decision-making  
+
+---
+
+### 🎯 Premium UI/UX Design
+- Luxury color palette (cream, gold, green accents)  
+- Smooth animations and hover effects  
+- Card-based layout with depth and shadows (3D feel)  
+- Wave section dividers for modern flow  
+
+---
+
+### 🖼️ Gallery Section
+- High-quality food and restaurant images  
+- Hover zoom effects  
+- Visual storytelling of dining experience  
+
+---
+
+### 🎁 Offers & Specials
+- Highlighted deals and combo offers  
+- Attractive cards to drive customer engagement  
+
+---
+
+### 📞 Contact & Location
+- Clickable phone number: **7895745198**  
+- WhatsApp integration for quick contact  
+- Address: **Roorkee, Uttarakhand, India**  
+- Embedded Google Maps  
+
+---
+
+### 📅 Reservation System
+- Simple table booking form  
+- User-friendly input fields  
+- Enhances customer convenience  
+
+---
+
+### 📱 Fully Responsive Design
+- Optimized for mobile, tablet, and desktop  
+- Smooth performance across devices  
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🌐 HTML5  
+- ⚡ JavaScript  
+- 🚀 Vercel (Deployment)  
+- 🗂️ GitHub (Version Control)  
+
+---
+
+## 💡 What This Project Solves
+
+This website helps a restaurant:
+
+- Build a strong professional online presence  
+- Showcase menu and services clearly  
+- Increase customer trust  
+- Enable easy contact and reservations  
+- Improve overall customer engagement  
+
+---
+
+## 📌 Project Structure
