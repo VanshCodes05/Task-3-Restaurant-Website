@@ -121,7 +121,7 @@ npm run dev
 
 ## 📂 GitHub Repository
 
-👉 [Add your GitHub link here]
+👉 https://github.com/VanshCodes05/Task-3-Restaurant-Website
 
 ---
 
