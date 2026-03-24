@@ -94,3 +94,43 @@ This website helps a restaurant:
 ---
 
 ## 📌 Project Structure
+
+frontend/
+├── components/
+├── pages/
+├── assets/
+└── App.jsx
+
+
+---
+
+## 🚀 How to Run Locally
+
+
+npm install
+npm run dev
+
+
+---
+
+## 🌐 Live Demo
+
+👉 [Add your live link here]
+
+---
+
+## 📂 GitHub Repository
+
+👉 [Add your GitHub link here]
+
+---
+
+## 👨‍💻 Author
+
+**Vansh Saini**
+
+---
+
+## 💼 Final Note
+
+This project reflects a real-world business use case and demonstrates the ability to build modern, scalable, and visually premium websites for local businesses.
